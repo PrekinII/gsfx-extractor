@@ -51,14 +51,7 @@
 pip install -r requirements.txt
 ```
 
-### 2. Укажи пути
-Открой settings.py
-```python
-INPUT_PATH = r"C:\Путь\к\объектам"
-OUTPUT_PATH = r"C:\Путь\к\отчету\итог.xlsx"
-```
-
-### 3. Запусти скрипт
+### 2. Запусти скрипт
 ```bash
 python main.py
 ```
